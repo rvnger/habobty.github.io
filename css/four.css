@@ -1,0 +1,24 @@
+.rubik-<uniquifier> {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  
+  body {
+      font-family: Rubik;
+      width: 100%;
+      background-color: #ff58bf;
+      direction: rtl;
+  }
+  
+  a {
+      text-decoration: none;
+      color: black;
+      position: fixed;
+      top: 40%;
+      right: 21%;
+      font-weight: bold;
+      font-size: 40px;
+      text-align: center;
+  }
